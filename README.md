@@ -1,6 +1,6 @@
 #  Blog Website
 
- This application build  using  MERN Stack
+ This project is a full-stack blog website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, update, delete, and view blog posts. The application also includes user authentication and authorization implemented using JSON Web Tokens (JWT).
 ## Login page
 ![login_page](https://github.com/user-attachments/assets/71ae62c3-b276-45cc-bea6-8e9cf106e383)
 
