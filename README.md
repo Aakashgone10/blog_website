@@ -12,3 +12,19 @@
 
 ## View Post
 ![view_post](https://github.com/user-attachments/assets/cad86c38-4db6-4082-8598-eb32bae1a46c)
+
+## Technologies Used
+
+- **Frontend**:
+  - React.js: For building the user interface.
+  - React Router: For navigating between pages.
+
+- **Backend**:
+  - Node.js: JavaScript runtime for the server.
+  - Express.js: Web framework for handling routes and requests.
+  - MongoDB: NoSQL database for storing blog posts and user data.
+  - Mongoose: ODM for MongoDB to define models and interact with the database.
+
+- **Authentication**:
+  - JSON Web Tokens (JWT): For securing API endpoints and managing user sessions.
+
